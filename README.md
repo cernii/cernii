@@ -8,11 +8,11 @@
 
 ### I am a Software Engineer with 4+ years of industry experience building Testing Automation Solutions
 
-- 🔭 I’m currently working with [endava](https://endava.com)
+- 🔭 I’m currently working with [Endava](https://endava.com)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 Building **cloud** ☁️ and improving **security** 🛡️ skills
 
-- 💬 Ask me about **QA, Java, SQL, JS, HTML, CSS**
+- 💬 Ask me about **Security, Quality Assurance** and automation
 
 - 📫 How to reach me: rcernii.qa@gmail.com
 
