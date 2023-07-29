@@ -12,7 +12,7 @@
 
 - 🌱 Building **cloud** ☁️ and improving **security** 🛡️ skills
 
-- 💬 Ask me about **Security, Quality Assurance** and automation
+- 💬 Ask me about **Automation, Quality Assurance** and **Security**
 
 - 📫 How to reach me: rcernii.qa@gmail.com
 
@@ -22,19 +22,12 @@
 
 #### Online Presence
 
-<a href="https://github.com/cernii">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cernii/cernii/blob/main/pictures/svg/github-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/cernii/cernii/blob/main/pictures/svg/github-dark.svg">
-    <img alt="My GitHub" src="https://github.com/cernii/cernii/blob/main/pictures/svg/github-dark.svg" height="40em">
-  </picture>
-</a>
 <a href="https://linkedin.com/in/roman-cernii/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cernii/cernii/blob/main/pictures/svg/linkedin-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/cernii/cernii/blob/main/pictures/svg/linkedin-dark.svg">
     <img alt="My LinkedIn" src="https://github.com/cernii/cernii/blob/main/pictures/svg/linkedin-dark.svg" height="40em">
-  </picture>
+  </picture>https://linkedin.com/in/roman-cernii/
 </a>
 
 ---
@@ -49,5 +42,3 @@
 </div>
 
 ---
-
-![Profile views](https://gpvc.arturio.dev/cernii)
