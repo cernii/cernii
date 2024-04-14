@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github.com/cernii/cernii/blob/main/pictures/gif/engineer.gif" alt="Hola Coders" width="500" height="auto">
 
-### I am a Software Engineer with 4+ years of industry experience building Testing Automation Solutions
+### I am a Software Engineer with 5+ years of industry experience building Testing Automation Solutions
 
 - 🔭 I’m currently working with [Endava](https://endava.com)
 
