@@ -14,31 +14,12 @@
 
 - 💬 Ask me about **Automation, Quality Assurance** and **Security**
 
-- 📫 How to reach me: rcernii.qa@gmail.com
-
-- 😄 Pronouns: He/His
-
-- ⚡ Fun fact: I play games at times!
-
-#### Online Presence
+- 📫 How to reach me: https://linkedin.com/in/roman-cernii/
 
 <a href="https://linkedin.com/in/roman-cernii/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cernii/cernii/blob/main/pictures/svg/linkedin-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/cernii/cernii/blob/main/pictures/svg/linkedin-dark.svg">
     <img alt="My LinkedIn" src="https://github.com/cernii/cernii/blob/main/pictures/svg/linkedin-dark.svg" height="40em">
-  </picture>https://linkedin.com/in/roman-cernii/
+  </picture>
 </a>
-
----
-
-<div>  
-  <a href="https://github.com/cernii">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cernii&show_icons=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8">
-  </a>
-  <a href="https://github.com/cernii">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=cernii&show_icons=true&include_all_commits=true&count_private=true">
-  </a>
-</div>
-
----
