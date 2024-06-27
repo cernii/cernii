@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working with [Endava](https://endava.com)
 
-- 🌱 Building **cloud** ☁️ and improving **security** 🛡️ skills
+- 🌱 Growing **AI** 🤖, **Cloud** ☁️ and **Cyber Security** 🛡️ skills
 
 - 💬 Ask me about **Automation, Quality Assurance** and **Security**
 
